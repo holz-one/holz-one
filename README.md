@@ -1,20 +1,13 @@
-<!--
-HOW TO USE
-1. Create a PUBLIC repo named exactly: holz-one  (same as your username)
-2. Add this file as README.md in that repo
-3. Edit anything in [brackets] and delete the <!-- comments --> when done
--->
-
 # Hi, I'm A. K. Holz 👋
 
 **Python developer focused on local AI and DuckDB data pipelines.**
-I'm looking for a **remote Python role** [edit: e.g. Data Engineer / AI Engineer / Python Backend].
+I'm looking for a **remote Python role** as Data Engineer / AI Engineer / Python Backend.
 
 ## What I'm working on
 
 - 🧠 **Local AI:** running small and quantized LLMs on my own hardware (RTX 4060 laptop for heavier models, an Orange Pi cluster for small-model/edge experiments)
 - 🦆 **DuckDB + Python:** turning messy real-world data into fast, queryable local databases
-- 🔧 **Next up:** [edit: e.g. adding semantic search and a local LLM Q&A layer to MailData]
+
 
 ## Featured projects
 
@@ -39,8 +32,8 @@ I'm looking for a **remote Python role** [edit: e.g. Data Engineer / AI Engineer
 
 ## Currently learning
 
-- [edit: e.g. LLM app development, embeddings and vector search]
-- [edit: e.g. testing and CI for Python projects]
+- LLM app development, embeddings and vector search
+- Testing and CI for Python projects
 
 ## Get in touch
 
